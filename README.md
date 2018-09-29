@@ -1,2 +1,2 @@
 # hello-world
-writeы in the console hello world
+writes in the console hello world
